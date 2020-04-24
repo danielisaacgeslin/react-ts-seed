@@ -6044,10 +6044,17 @@ abbrev@1:
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
   integrity sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q==
 
+<<<<<<< HEAD
 accepts@~1.3.4, accepts@~1.3.5:
   version "1.3.5"
   resolved "https://registry.yarnpkg.com/accepts/-/accepts-1.3.5.tgz#eb777df6011723a3b14e8a72c0805c8e86746bd2"
   integrity sha1-63d99gEXI6OxTopywIBcjoZ0a9I=
+=======
+accepts@~1.3.4, accepts@~1.3.5, accepts@~1.3.7:
+  version "1.3.7"
+  resolved "https://registry.yarnpkg.com/accepts/-/accepts-1.3.7.tgz#531bc726517a3b2b41f850021c6cc15eaab507cd"
+  integrity sha512-Il80Qs2WjYlJIBNzNkK6KYqlVMTbZLXgHx2oT0pU/fjRHyEp+PEfEPY0R3WCwAGVOtauxh1hOxNgIf5bv7dQpA==
+>>>>>>> 0d8a655... Update yarn lock
   dependencies:
     mime-types "~2.1.18"
     negotiator "0.6.1"
@@ -6722,6 +6729,7 @@ async-limiter@~1.0.0:
   integrity sha512-jp/uFnooOiO+L211eZOoSyzpOITMXx1rBITauYykG3BRYPu8h0UcxsPNB04RR5vo4Tyz3+ay17tR6JVf9qzYWg==
 >>>>>>> d03d649... updated deps & updated tests
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 async@2.6.1:
   version "2.6.1"
@@ -6742,10 +6750,13 @@ async@^1.5.2:
   resolved "https://registry.yarnpkg.com/async/-/async-1.5.2.tgz#ec6a61ae56480c0c3cb241c95618e20892f9672a"
   integrity sha1-7GphrlZIDAw8skHJVhjiCJL5Zyo=
 =======
+=======
+>>>>>>> 0d8a655... Update yarn lock
 async@^2.6.2:
   version "2.6.3"
   resolved "https://registry.yarnpkg.com/async/-/async-2.6.3.tgz#d72625e2344a3656e3a3ad4fa749fa83299d82ff"
   integrity sha512-zflvls11DCy+dQWzTW2dzuilv8Z5X/pjfmZOWba6TNIVDm+2UDaJmXSOXlasHKfNBs8oo3M0aT50fDEWfKZjXg==
+<<<<<<< HEAD
   dependencies:
     lodash "^4.17.14"
 >>>>>>> Stashed changes
@@ -6760,6 +6771,8 @@ async@^2.1.4:
   version "2.6.3"
   resolved "https://registry.yarnpkg.com/async/-/async-2.6.3.tgz#d72625e2344a3656e3a3ad4fa749fa83299d82ff"
   integrity sha512-zflvls11DCy+dQWzTW2dzuilv8Z5X/pjfmZOWba6TNIVDm+2UDaJmXSOXlasHKfNBs8oo3M0aT50fDEWfKZjXg==
+=======
+>>>>>>> 0d8a655... Update yarn lock
   dependencies:
     lodash "^4.17.14"
 <<<<<<< HEAD
@@ -7595,6 +7608,7 @@ bluebird@3.5.5:
   integrity sha512-EgmjVLMn22z7eGGv3kcnHwSnJXmFHjISTY9E/S5lIcTD3Oxw05QTcBLNkJFzcb3cNueUdF/IN4U+d78V0zO8Hw==
 >>>>>>> d03d649... updated deps & updated tests
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 bluebird@3.5.0:
   version "3.5.0"
@@ -7628,12 +7642,17 @@ bluebird@^3.3.5, bluebird@^3.5.3:
 >>>>>>> d03d649... updated deps & updated tests
 =======
 =======
+=======
+>>>>>>> 0d8a655... Update yarn lock
 bluebird@3.7.2, bluebird@^3.3.5, bluebird@^3.5.5:
   version "3.7.2"
   resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-3.7.2.tgz#9f229c15be272454ffa973ace0dbee79a1b0c36f"
   integrity sha512-XpNj6GDQzdfW+r2Wnn7xiSAd7TM3jzkxGXBGTtWKuSXv1xUV+azxAm8jdWZN06QTQk+2N2XB9jRDkvbmQmcRtg==
+<<<<<<< HEAD
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
 
 =======
 >>>>>>> fb02b58... rebuilt lock
@@ -8108,6 +8127,7 @@ cache-base@^1.0.1:
     unset-value "^1.0.0"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< Updated upstream
 cachedir@1.3.0:
@@ -8118,14 +8138,19 @@ cachedir@1.3.0:
     os-homedir "^1.0.1"
 =======
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
 cachedir@2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/cachedir/-/cachedir-2.3.0.tgz#0c75892a052198f0b21c7c1804d8331edfcae0e8"
   integrity sha512-A+Fezp4zxnit6FanDmv9EqXNAi3vt9DWp51/71UEhXukb7QUuvtv9344h91dyAxuTLoSYJFU299qzR3tzwPAhw==
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
 
 call-me-maybe@^1.0.1:
   version "1.0.1"
@@ -8547,6 +8572,7 @@ cli-cursor@^2.0.0, cli-cursor@^2.1.0:
     restore-cursor "^2.0.0"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< Updated upstream
 cli-spinners@^0.1.2:
@@ -8555,6 +8581,8 @@ cli-spinners@^0.1.2:
   integrity sha1-u3ZNiOGF+54eaiofGXcjGPYF4xw=
 =======
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
 cli-cursor@^3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/cli-cursor/-/cli-cursor-3.1.0.tgz#264305a7ae490d1d03bf0c9ba7c925d1753af307"
@@ -8562,9 +8590,12 @@ cli-cursor@^3.1.0:
   dependencies:
     restore-cursor "^3.1.0"
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
 
 cli-table3@0.5.1:
   version "0.5.1"
@@ -8748,6 +8779,7 @@ commander@4.1.0:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 commander@^2.11.0, commander@^2.12.1, commander@^2.19.0, commander@^2.20.0:
   version "2.20.3"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.20.3.tgz#fd485e84c03eb4881c20722ba48035e8531aeb33"
@@ -8777,10 +8809,13 @@ commander@2.17.x, commander@~2.17.1:
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.17.1.tgz#bd77ab7de6de94205ceacc72f1716d29f20a77bf"
   integrity sha512-wPMUt6FnH2yzG95SA6mzjQOEKUU3aLaDEmzs1ti+1E9h+CsrZghRlqEM/EJ4KscsQVG8uNN4uVreUeT8+drlgg==
 =======
+=======
+>>>>>>> 0d8a655... Update yarn lock
 commander@4.1.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-4.1.0.tgz#545983a0603fe425bc672d66c9e3c89c42121a83"
   integrity sha512-NIQrwvv9V39FHgGFm36+U9SMQzbiHvU79k+iADraJTpmrFFfx7Ds0IvDoAdZsDrknlkRk14OYoWXb57uTh7/sw==
+<<<<<<< HEAD
 >>>>>>> Stashed changes
 
 <<<<<<< HEAD
@@ -8788,6 +8823,10 @@ commander@^2.11.0, commander@^2.12.1, commander@^2.19.0, commander@^2.20.0, comm
 >>>>>>> fb02b58... rebuilt lock
 =======
 commander@^2.11.0, commander@^2.12.1, commander@^2.19.0:
+=======
+
+commander@^2.11.0, commander@^2.12.1, commander@^2.19.0, commander@^2.20.0:
+>>>>>>> 0d8a655... Update yarn lock
   version "2.20.3"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.20.3.tgz#fd485e84c03eb4881c20722ba48035e8531aeb33"
   integrity sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ==
@@ -8880,6 +8919,7 @@ concat-map@0.0.1:
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 concat-stream@^1.4.7, concat-stream@^1.5.0, concat-stream@^1.6.2:
 =======
 <<<<<<< Updated upstream
@@ -8888,6 +8928,9 @@ concat-stream@1.6.2, concat-stream@^1.4.7, concat-stream@^1.5.0:
 concat-stream@^1.4.7, concat-stream@^1.5.0, concat-stream@^1.6.2:
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+concat-stream@^1.4.7, concat-stream@^1.5.0, concat-stream@^1.6.2:
+>>>>>>> 0d8a655... Update yarn lock
   version "1.6.2"
   resolved "https://registry.yarnpkg.com/concat-stream/-/concat-stream-1.6.2.tgz#904bdf194cd3122fc675c77fc4ac3d4ff0fd1a34"
   dependencies:
@@ -9700,12 +9743,16 @@ csstype@^2.2.0:
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.6.0.tgz#6cf7b2fa7fc32aab3d746802c244d4eda71371a2"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0d8a655... Update yarn lock
 cypress-plugin-retries@^1.5.2:
   version "1.5.2"
   resolved "https://registry.yarnpkg.com/cypress-plugin-retries/-/cypress-plugin-retries-1.5.2.tgz#21d5247cd77013b95bbfdd914f2de66f91f76a2e"
   integrity sha512-o1xVIGtv4WvNVxoVJ2X08eAuvditPHrePRzHqhwwHbMKu3C2rtxCdanRCZdO5fjh8ww+q4v4V0e9GmysbOvu3A==
   dependencies:
     chalk "^3.0.0"
+<<<<<<< HEAD
 =======
 csstype@^2.5.2, csstype@^2.5.7:
   version "2.6.3"
@@ -9781,6 +9828,9 @@ d@1:
   resolved "https://registry.yarnpkg.com/d/-/d-1.0.0.tgz#754bb5bfe55451da69a58b94d45f4c5b0462d58f"
   integrity sha1-dUu1v+VUUdpppYuU1F9MWwRi1Y8=
 =======
+=======
+
+>>>>>>> 0d8a655... Update yarn lock
 cypress@*, cypress@^4.4.1:
   version "4.4.1"
   resolved "https://registry.yarnpkg.com/cypress/-/cypress-4.4.1.tgz#f5aa1aa5f328f1299bff328103f7cbad89e80f29"
@@ -9837,7 +9887,10 @@ d@1, d@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/d/-/d-1.0.1.tgz#8698095372d58dbee346ffd0c7093f99f8f9eb5a"
   integrity sha512-m62ShEObQ39CfralilEQRjH6oAMtNCV1xJyEx5LpRYUVN+EviphDgUc/F3hnYbADmkiNs67Y+3ylmlG7Lnu+FA==
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> 0d8a655... Update yarn lock
   dependencies:
     es5-ext "^0.10.9"
 
@@ -9902,6 +9955,7 @@ debug@2.6.9, debug@^2.1.2, debug@^2.2.0, debug@^2.3.3, debug@^2.6.0, debug@^2.6.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 debug@3.2.6, debug@^3.0.0, debug@^3.1.0, debug@^3.2.5, debug@^3.2.6:
 =======
@@ -9922,6 +9976,8 @@ debug@3.2.6, debug@^3.1.0, debug@^3.2.5, debug@^3.2.6:
 =======
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
 debug@4.1.1, debug@^4.0.1, debug@^4.1.0, debug@^4.1.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/debug/-/debug-4.1.1.tgz#3b72260255109c6b589cee050f1d516139664791"
@@ -9930,10 +9986,14 @@ debug@4.1.1, debug@^4.0.1, debug@^4.1.0, debug@^4.1.1:
     ms "^2.1.1"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 debug@^3.0.0, debug@^3.1.0, debug@^3.1.1, debug@^3.2.5, debug@^3.2.6:
 =======
 debug@^3.0.0, debug@^3.1.0, debug@^3.1.1, debug@^3.2.5:
 >>>>>>> 7956726... Update cypres
+=======
+debug@^3.0.0, debug@^3.1.0, debug@^3.1.1, debug@^3.2.5, debug@^3.2.6:
+>>>>>>> 0d8a655... Update yarn lock
   version "3.2.6"
   resolved "https://registry.yarnpkg.com/debug/-/debug-3.2.6.tgz#e83d17de16d8a7efb7717edbe5fb10135eee629b"
   integrity sha512-mel+jf7nrtEl5Pn1Qx46zARXKDpBbvzezse7p7LqINmdoIk8PYP5SySaxEmYv6TZ0JyEKA1hsCId6DIhgITtWQ==
@@ -9974,6 +10034,11 @@ deep-equal@^1.0.1:
   resolved "https://registry.yarnpkg.com/deep-equal/-/deep-equal-1.0.1.tgz#f5d260292b660e084eff4cdbc9f08ad3247448b5"
   integrity sha1-9dJgKStmDghO/0zbyfCK0yR0SLU=
 >>>>>>> d03d649... updated deps & updated tests
+
+deep-extend@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/deep-extend/-/deep-extend-0.6.0.tgz#c4fa7c95404a17a9c3e8ca7e1537312b736330ac"
+  integrity sha512-LOHxIOaPYdHlJRtCQfDIVZtfw/ufM8+rVj649RIHzcm/vGwQRXFt6OPqIFWsm2XEMrNIEtWR64sY1LEKD2vAOA==
 
 deep-extend@^0.6.0:
   version "0.6.0"
@@ -11330,6 +11395,7 @@ exec-sh@^0.3.2:
   resolved "https://registry.yarnpkg.com/exec-sh/-/exec-sh-0.3.2.tgz#6738de2eb7c8e671d0366aea0b0db8c6f7d7391b"
   integrity sha512-9sLAvzhI5nc8TpuQUh4ahMdCrWT00wPWz7j47/emR5+2qEfoZP5zzUXvx+vdx+H6ohhnsYC31iX04QLYJK8zTg==
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 execa@0.10.0:
   version "0.10.0"
@@ -11381,6 +11447,9 @@ execa@^1.0.0:
 execa@1.0.0, execa@^1.0.0:
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+execa@1.0.0, execa@^1.0.0:
+>>>>>>> 0d8a655... Update yarn lock
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/execa/-/execa-1.0.0.tgz#c6236a5bb4df6d6f15e88e7f017798216749ddd8"
   integrity sha512-adbxcyWV46qiHyvSp50TKt05tB4tK3HcmF7/nxfAdhnox83seTDbwnaqKO4sXRy7roHAIFqJP/Rw/AuEbX61LA==
@@ -11554,11 +11623,15 @@ extglob@^2.0.4:
     to-regex "^3.0.1"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0d8a655... Update yarn lock
 extract-zip@1.7.0:
   version "1.7.0"
   resolved "https://registry.yarnpkg.com/extract-zip/-/extract-zip-1.7.0.tgz#556cc3ae9df7f452c493a0cfb51cc30277940927"
   integrity sha512-xoh5G1W/PB0/27lXgMQyIhP5DSY/LhoCsOyZgb+6iMmRtCwVBo55uKaMoEYrDCKQhWvqEip5ZPKAc6eFNyf/MA==
   dependencies:
+<<<<<<< HEAD
 =======
 <<<<<<< Updated upstream
 extract-zip@1.6.7:
@@ -11577,14 +11650,19 @@ extract-zip@1.7.0:
   integrity sha512-xoh5G1W/PB0/27lXgMQyIhP5DSY/LhoCsOyZgb+6iMmRtCwVBo55uKaMoEYrDCKQhWvqEip5ZPKAc6eFNyf/MA==
   dependencies:
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
     concat-stream "^1.6.2"
     debug "^2.6.9"
     mkdirp "^0.5.4"
     yauzl "^2.10.0"
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
 
 extsprintf@1.3.0:
   version "1.3.0"
@@ -12067,6 +12145,7 @@ from@~0:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 fs-extra@8.1.0, fs-extra@^8.0.1, fs-extra@^8.1.0:
   version "8.1.0"
   resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-8.1.0.tgz#49d43c45a88cd9677668cb7be1b46efdb8d2e1c0"
@@ -12092,12 +12171,17 @@ fs-extra@7.0.1, fs-extra@^7.0.0, fs-extra@^7.0.1:
 >>>>>>> fb02b58... rebuilt lock
 =======
 =======
+=======
+>>>>>>> 0d8a655... Update yarn lock
 fs-extra@8.1.0, fs-extra@^8.0.1, fs-extra@^8.1.0:
   version "8.1.0"
   resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-8.1.0.tgz#49d43c45a88cd9677668cb7be1b46efdb8d2e1c0"
   integrity sha512-yhlQgA6mnOJUKOsRUFsgJdQCvkKhcz8tlZG5HBQfReYZy46OwLcY+Zia0mtdHsOo9y/hP+CxMN0TU9QxoOtG4g==
+<<<<<<< HEAD
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
   dependencies:
     graceful-fs "^4.2.0"
     jsonfile "^4.0.0"
@@ -12148,6 +12232,7 @@ fs-extra@^8.1.0:
 fs-minipass@^1.2.5:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   version "1.2.7"
   resolved "https://registry.yarnpkg.com/fs-minipass/-/fs-minipass-1.2.7.tgz#ccff8570841e7fe4265693da88936c55aed7f7c7"
   integrity sha512-GWSSJGFy4e9GUeCcbIkED+bgAoFyj7XF1mV8rma3QW4NIqX9Kyx79N/PF61H5udOV3aY1IaMLs6pGbH71nlCTA==
@@ -12156,6 +12241,11 @@ fs-minipass@^1.2.5:
   resolved "https://registry.yarnpkg.com/fs-minipass/-/fs-minipass-1.2.6.tgz#2c5cc30ded81282bfe8a0d7c7c1853ddeb102c07"
   integrity sha512-crhvyXcMejjv3Z5d2Fa9sf5xLYVCF5O1c71QxbVnbLsmYMBEvDAftewesN/HhY03YRoA7zOMxjNGrF5svGaaeQ==
 >>>>>>> fb02b58... rebuilt lock
+=======
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/fs-minipass/-/fs-minipass-1.2.7.tgz#ccff8570841e7fe4265693da88936c55aed7f7c7"
+  integrity sha512-GWSSJGFy4e9GUeCcbIkED+bgAoFyj7XF1mV8rma3QW4NIqX9Kyx79N/PF61H5udOV3aY1IaMLs6pGbH71nlCTA==
+>>>>>>> 0d8a655... Update yarn lock
   dependencies:
     minipass "^2.6.0"
 
@@ -12362,12 +12452,16 @@ get-value@^2.0.3, get-value@^2.0.6:
   integrity sha1-3BXKHGcjh8p2vTesCjlbogQqLCg=
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0d8a655... Update yarn lock
 getos@3.1.4:
   version "3.1.4"
   resolved "https://registry.yarnpkg.com/getos/-/getos-3.1.4.tgz#29cdf240ed10a70c049add7b6f8cb08c81876faf"
   integrity sha512-UORPzguEB/7UG5hqiZai8f0vQ7hzynMQyJLxStoQ8dPGAcmgsfXOPA4iE/fGtweHYkK+z4zc9V0g+CIFRf5HYw==
   dependencies:
     async "^3.1.0"
+<<<<<<< HEAD
 =======
 <<<<<<< Updated upstream
 getos@3.1.1:
@@ -12385,6 +12479,8 @@ getos@3.1.4:
     async "^3.1.0"
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
 
 getpass@^0.1.1:
   version "0.1.7"
@@ -12684,6 +12780,7 @@ har-schema@^2.0.0:
   integrity sha1-qUwiJOvKwEeCoNkDVSHyRzW37JI=
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 har-validator@~5.1.3:
 =======
 <<<<<<< Updated upstream
@@ -12692,6 +12789,9 @@ har-validator@~5.1.0:
 har-validator@~5.1.3:
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+har-validator@~5.1.3:
+>>>>>>> 0d8a655... Update yarn lock
   version "5.1.3"
   resolved "https://registry.yarnpkg.com/har-validator/-/har-validator-5.1.3.tgz#1ef89ebd3e4996557675eed9893110dc350fa080"
   integrity sha512-sNvOCzEQNr/qrvJgc3UG/kD4QtlHycrzwS+6mfTrrSq97BvaYcPZZI1ZSqGSPR73Cxn4LKTD4PttRwfU7jWq5g==
@@ -13166,6 +13266,7 @@ hyphenate-style-name@^1.0.2:
   resolved "https://registry.yarnpkg.com/hyphenate-style-name/-/hyphenate-style-name-1.0.3.tgz#097bb7fa0b8f1a9cf0bd5c734cf95899981a9b48"
   integrity sha512-EcuixamT82oplpoJ2XU4pDtKGWQ7b00CD9f1ug9IaQ3p1bkHMiKCZ9ut9QDI6qsa6cpUuB+A/I+zLtdNK4n2DQ==
 
+<<<<<<< HEAD
 iconv-lite@0.4.23:
   version "0.4.23"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.23.tgz#297871f63be507adcfbfca715d0cd0eed84e9a63"
@@ -13173,6 +13274,8 @@ iconv-lite@0.4.23:
   dependencies:
     safer-buffer ">= 2.1.2 < 3"
 
+=======
+>>>>>>> 0d8a655... Update yarn lock
 iconv-lite@0.4.24, iconv-lite@^0.4.24, iconv-lite@^0.4.4, iconv-lite@~0.4.13:
   version "0.4.24"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.24.tgz#2022b4b25fbddc21d2f524974a474aafe733908b"
@@ -13364,6 +13467,14 @@ inherits@2.0.1:
   resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.1.tgz#b17d08d326b4423e568eff719f91b0b1cbdf69f1"
   integrity sha1-sX0I0ya0Qj5Wjv9xn5GwscvfafE=
 
+<<<<<<< HEAD
+=======
+inherits@2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.3.tgz#633c2c83e3da42a502f52466022480f4208261de"
+  integrity sha1-Yzwsg+PaQqUC9SRmAiSA9CCCYd4=
+
+>>>>>>> 0d8a655... Update yarn lock
 ini@^1.3.4, ini@^1.3.5, ini@~1.3.0:
   version "1.3.5"
   resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
@@ -13728,6 +13839,7 @@ is-callable@^1.1.3, is-callable@^1.1.4:
   version "1.1.4"
   resolved "https://registry.yarnpkg.com/is-callable/-/is-callable-1.1.4.tgz#1e1adf219e1eeb684d691f9d6a05ff0d30a24d75"
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 is-ci@1.2.1:
   version "1.2.1"
@@ -13745,6 +13857,9 @@ is-ci@^2.0.0:
 is-ci@2.0.0, is-ci@^2.0.0:
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+is-ci@2.0.0, is-ci@^2.0.0:
+>>>>>>> 0d8a655... Update yarn lock
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/is-ci/-/is-ci-2.0.0.tgz#6bc6334181810e04b5c22b3d589fdca55026404c"
   integrity sha512-YfJT7rkpQB0updsdHLGWrvhBJfcfzNNawYDNIyQXJz0IViGf75O8EBPKSdvw2rF+LGCsX4FZ8tcr3b19LcZq4w==
@@ -13859,6 +13974,7 @@ is-extglob@^2.1.0, is-extglob@^2.1.1:
   integrity sha1-qIwCU1eR8C7TfHahueqXc8gz+MI=
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< Updated upstream
 is-finite@^1.0.0:
@@ -13871,6 +13987,8 @@ is-finite@^1.0.0:
 =======
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
 is-fullwidth-code-point@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/is-fullwidth-code-point/-/is-fullwidth-code-point-1.0.0.tgz#ef9e31386f031a7f0d643af82fde50c457ef00cb"
@@ -15449,6 +15567,7 @@ listr-silent-renderer@^1.1.1:
   integrity sha1-kktaN1cVN3C/Go4/v3S4u/P5JC4=
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< Updated upstream
 listr-update-renderer@^0.2.0:
@@ -15457,14 +15576,19 @@ listr-update-renderer@^0.2.0:
   integrity sha1-yoDhd5tOcCZoB+ju0a1qvjmFUPk=
 =======
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
 listr-update-renderer@^0.5.0:
   version "0.5.0"
   resolved "https://registry.yarnpkg.com/listr-update-renderer/-/listr-update-renderer-0.5.0.tgz#4ea8368548a7b8aecb7e06d8c95cb45ae2ede6a2"
   integrity sha512-tKRsZpKz8GSGqoI/+caPmfrypiaq+OQCbd+CovEC24uk1h952lVj5sC7SqyFUm+OaJ5HN/a1YLt5cit2FMNsFA==
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
   dependencies:
     chalk "^1.1.3"
     cli-truncate "^0.2.1"
@@ -15472,6 +15596,7 @@ listr-update-renderer@^0.5.0:
     figures "^1.7.0"
     indent-string "^3.0.0"
     log-symbols "^1.0.2"
+<<<<<<< HEAD
 <<<<<<< HEAD
     log-update "^2.3.0"
 =======
@@ -15512,6 +15637,8 @@ listr@0.14.3:
     stream-to-observable "^0.1.0"
     strip-ansi "^3.0.1"
 =======
+=======
+>>>>>>> 0d8a655... Update yarn lock
     log-update "^2.3.0"
     strip-ansi "^3.0.1"
 
@@ -15541,9 +15668,12 @@ listr@0.14.3:
     p-map "^2.0.0"
     rxjs "^6.3.3"
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
 
 load-json-file@^2.0.0:
   version "2.0.0"
@@ -15800,6 +15930,7 @@ lodash.uniq@^4.5.0:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 lodash@4.17.15, "lodash@>=3.5 <5", lodash@^4.0.1, lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.5:
 =======
 lodash@4.17.15, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15:
@@ -15817,6 +15948,9 @@ lodash@4.17.15, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.
 lodash@4.17.15, "lodash@>=3.5 <5", lodash@^4.0.1, lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.5:
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+lodash@4.17.15, "lodash@>=3.5 <5", lodash@^4.0.1, lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.5:
+>>>>>>> 0d8a655... Update yarn lock
   version "4.17.15"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
@@ -15824,10 +15958,14 @@ lodash@4.17.15, "lodash@>=3.5 <5", lodash@^4.0.1, lodash@^4.17.11, lodash@^4.17.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0d8a655... Update yarn lock
 log-symbols@3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/log-symbols/-/log-symbols-3.0.0.tgz#f3a08516a5dea893336a7dee14d18a1cfdab77c4"
   integrity sha512-dSkNGuI7iG3mfvDzUuYZyvk5dD9ocYCYzNU6CYDE6+Xqd+gwme6Z00NS3dUh8mq/73HaEtT7m6W+yUPtU6BZnQ==
+<<<<<<< HEAD
 =======
 =======
 =======
@@ -15857,6 +15995,10 @@ log-symbols@3.0.0:
     chalk "^2.4.2"
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+  dependencies:
+    chalk "^2.4.2"
+>>>>>>> 0d8a655... Update yarn lock
 
 log-symbols@^1.0.2:
   version "1.0.2"
@@ -16437,6 +16579,7 @@ minimatch@3.0.4, minimatch@^3.0.2, minimatch@^3.0.4:
     brace-expansion "^1.1.7"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 minimist@1.2.5, minimist@^1.1.1, minimist@^1.1.3, minimist@^1.2.0, minimist@^1.2.5:
   version "1.2.5"
   resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
@@ -16466,6 +16609,8 @@ minimist@1.2.0, minimist@^1.1.1, minimist@^1.1.3, minimist@^1.2.0:
 >>>>>>> fb02b58... rebuilt lock
 =======
 =======
+=======
+>>>>>>> 0d8a655... Update yarn lock
 minimist@1.2.5, minimist@^1.1.1, minimist@^1.1.3, minimist@^1.2.0, minimist@^1.2.5:
   version "1.2.5"
   resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
@@ -16498,10 +16643,14 @@ minipass-pipeline@^1.2.2:
     minipass "^3.0.0"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0d8a655... Update yarn lock
 minipass@^2.6.0, minipass@^2.8.6, minipass@^2.9.0:
   version "2.9.0"
   resolved "https://registry.yarnpkg.com/minipass/-/minipass-2.9.0.tgz#e713762e7d3e32fed803115cf93e04bca9fcc9a6"
   integrity sha512-wxfUjg9WebH+CUDX/CdbRlh5SmfZiy/hpkxaRI16Y9W56Pa75sWgd/rvFilSgrauD9NyFymP/+JFV3KwzIsJeg==
+<<<<<<< HEAD
 =======
 minipass@^2.2.1, minipass@^2.3.5:
   version "2.5.0"
@@ -16514,12 +16663,17 @@ minipass@^2.2.1, minipass@^2.3.4:
   resolved "https://registry.yarnpkg.com/minipass/-/minipass-2.3.5.tgz#cacebe492022497f656b0f0f51e2682a9ed2d848"
   integrity sha512-Gi1W4k059gyRbyVUZQ4mEqLm0YIUiGYfvxhF6SIlk3ui1WVxMTGfGdQ2SInh3PDrRTVvPKgULkpJtT4RH10+VA==
 >>>>>>> d03d649... updated deps & updated tests
+=======
+>>>>>>> 0d8a655... Update yarn lock
   dependencies:
     safe-buffer "^5.1.2"
     yallist "^3.0.0"
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0d8a655... Update yarn lock
 minipass@^3.0.0, minipass@^3.1.1:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/minipass/-/minipass-3.1.1.tgz#7607ce778472a185ad6d89082aa2070f79cedcd5"
@@ -16578,10 +16732,14 @@ mixin-object@^2.0.1:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0d8a655... Update yarn lock
 mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@^0.5.3, mkdirp@^0.5.4, mkdirp@~0.5.1:
   version "0.5.5"
   resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-0.5.5.tgz#d91cefd62d1436ca0f41620e251288d420099def"
   integrity sha512-NKmAlESf6jMGym1++R0Ra7wvhV+wFW63FaSOFPwRahvea0gMUcGUhVeAg/0BC0wiv9ih5NYPB1Wn1UEI1/L+xQ==
+<<<<<<< HEAD
 =======
 mkdirp@0.5.1, mkdirp@0.5.x, mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@~0.5.1:
 =======
@@ -16608,6 +16766,10 @@ mkdirp@^0.5.1, mkdirp@^0.5.3, mkdirp@^0.5.4, mkdirp@~0.5.1:
     minimist "^1.2.5"
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+  dependencies:
+    minimist "^1.2.5"
+>>>>>>> 0d8a655... Update yarn lock
 
 moment@2.24.0:
   version "2.24.0"
@@ -16713,10 +16875,14 @@ natural-compare@^1.4.0:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0d8a655... Update yarn lock
 needle@^2.2.1:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/needle/-/needle-2.4.1.tgz#14af48732463d7475696f937626b1b993247a56a"
   integrity sha512-x/gi6ijr4B7fwl6WYL9FwlCvRQKGlUNvnceho8wxkwXqN8jvVmmmATTmZPRRG7b/yC1eode26C2HO9jl78Du9g==
+<<<<<<< HEAD
 =======
 nearley@^2.7.10:
   version "2.19.0"
@@ -16749,6 +16915,17 @@ negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
   integrity sha1-KzJxhOiZIQEXeyhWP7XnECrNDKk=
+=======
+  dependencies:
+    debug "^3.2.6"
+    iconv-lite "^0.4.4"
+    sax "^1.2.4"
+
+negotiator@0.6.2:
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.2.tgz#feacf7ccf525a77ae9634436a64883ffeca346fb"
+  integrity sha512-hZXc7K2e+PgeI1eDBe/10Ard4ekbfrrqG8Ep+8Jmf4JID2bNg7NvCPOZN+kfF574pFQI7mum2AUqDidoKqcTOw==
+>>>>>>> 0d8a655... Update yarn lock
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -16940,10 +17117,14 @@ node-notifier@^5.4.2:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0d8a655... Update yarn lock
 node-pre-gyp@*:
   version "0.14.0"
   resolved "https://registry.yarnpkg.com/node-pre-gyp/-/node-pre-gyp-0.14.0.tgz#9a0596533b877289bcad4e143982ca3d904ddc83"
   integrity sha512-+CvDC7ZttU/sSt9rFjix/P05iS43qHCOOGzcr3Ry99bXG7VX953+vFyEuph/tfqoYu8dttBkE86JSKBO2OzcxA==
+<<<<<<< HEAD
 =======
 node-pre-gyp@^0.12.0:
   version "0.12.0"
@@ -16956,6 +17137,8 @@ node-pre-gyp@^0.10.0:
   resolved "https://registry.yarnpkg.com/node-pre-gyp/-/node-pre-gyp-0.10.3.tgz#3070040716afdc778747b61b6887bf78880b80fc"
   integrity sha512-d1xFs+C/IPS8Id0qPTZ4bUT8wWryfR/OzzAFxweG+uLN85oPzyo2Iw6bVlLQ/JOdgNonXLCoRyqDzDWq4iw72A==
 >>>>>>> d03d649... updated deps & updated tests
+=======
+>>>>>>> 0d8a655... Update yarn lock
   dependencies:
     detect-libc "^1.0.2"
     mkdirp "^0.5.1"
@@ -16967,9 +17150,14 @@ node-pre-gyp@^0.10.0:
     rimraf "^2.6.1"
     semver "^5.3.0"
 <<<<<<< HEAD
+<<<<<<< HEAD
     tar "^4.4.2"
 
 <<<<<<< HEAD
+=======
+    tar "^4.4.2"
+
+>>>>>>> 0d8a655... Update yarn lock
 node-releases@^1.1.29, node-releases@^1.1.52, node-releases@^1.1.53:
   version "1.1.53"
   resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.53.tgz#2d821bfa499ed7c5dffc5e2f28c88e78a08ee3f4"
@@ -17035,6 +17223,14 @@ nopt@^4.0.1, nopt@~4.0.1:
     abbrev "1"
     osenv "^0.1.4"
 
+nopt@^4.0.1:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/nopt/-/nopt-4.0.3.tgz#a375cad9d02fd921278d954c2254d5aa57e15e48"
+  integrity sha512-CvaGwVMztSMJLOeXPrez7fyfObdZqNUK1cPAEzLHrTybIua9pMdmmPR5YwtfNftIOMv3DPUhFaxsZMNTQO20Kg==
+  dependencies:
+    abbrev "1"
+    osenv "^0.1.4"
+
 normalize-package-data@^2.3.2:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/normalize-package-data/-/normalize-package-data-2.5.0.tgz#e66db1838b200c1dfc233225d12cb36520e234a8"
@@ -17092,6 +17288,7 @@ npm-normalize-package-bin@^1.0.1:
 npm-packlist@^1.1.6:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   version "1.4.8"
   resolved "https://registry.yarnpkg.com/npm-packlist/-/npm-packlist-1.4.8.tgz#56ee6cc135b9f98ad3d51c1c95da22bbb9b2ef3e"
   integrity sha512-5+AZgwru5IevF5ZdnFglB5wNlHG1AOOuw28WhUq8/8emhBmLv6jX5by4WJCh7lW0uSYZYS6DXqIsyZVIXRZU9A==
@@ -17105,6 +17302,11 @@ npm-packlist@^1.1.6:
   resolved "https://registry.yarnpkg.com/npm-packlist/-/npm-packlist-1.4.1.tgz#19064cdf988da80ea3cee45533879d90192bbfbc"
   integrity sha512-+TcdO7HJJ8peiiYhvPxsEDhF3PJFGUGRcFsGve3vxvxdcpO2Z4Z7rkosRM0kWj6LfbK/P0gu3dzk5RU1ffvFcw==
 >>>>>>> d03d649... updated deps & updated tests
+=======
+  version "1.4.8"
+  resolved "https://registry.yarnpkg.com/npm-packlist/-/npm-packlist-1.4.8.tgz#56ee6cc135b9f98ad3d51c1c95da22bbb9b2ef3e"
+  integrity sha512-5+AZgwru5IevF5ZdnFglB5wNlHG1AOOuw28WhUq8/8emhBmLv6jX5by4WJCh7lW0uSYZYS6DXqIsyZVIXRZU9A==
+>>>>>>> 0d8a655... Update yarn lock
   dependencies:
     ignore-walk "^3.0.1"
     npm-bundled "^1.0.1"
@@ -17496,17 +17698,19 @@ os-browserify@^0.3.0:
   integrity sha1-hUNzx/XCMVkU/Jv8a9gjj92h7Cc=
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 os-homedir@^1.0.0:
 =======
 <<<<<<< Updated upstream
 os-homedir@^1.0.0, os-homedir@^1.0.1:
 >>>>>>> 7956726... Update cypres
+=======
+os-homedir@^1.0.0:
+>>>>>>> 0d8a655... Update yarn lock
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/os-homedir/-/os-homedir-1.0.2.tgz#ffbc4988336e0e833de0c168c7ef152121aa7fb3"
   integrity sha1-/7xJiDNuDoM94MFox+8VISGqf7M=
 
-=======
->>>>>>> Stashed changes
 os-locale@^3.0.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/os-locale/-/os-locale-3.1.0.tgz#a802a6ee17f24c10483ab9935719cef4ed16bf1a"
@@ -17523,6 +17727,14 @@ os-shim@^0.1.2:
 os-tmpdir@^1.0.0, os-tmpdir@~1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/os-tmpdir/-/os-tmpdir-1.0.2.tgz#bbe67406c79aa85c5cfec766fe5734555dfa1274"
+
+osenv@^0.1.4:
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/osenv/-/osenv-0.1.5.tgz#85cdfafaeb28e8677f416e287592b5f3f49ea410"
+  integrity sha512-0CWcCECdMVc2Rw3U5w9ZjqX6ga6ubk1xDVKxtBQPK7wis/0F2r9T6k4ydGYhecl7YUBxBVxhL5oisPsNxAPe2g==
+  dependencies:
+    os-homedir "^1.0.0"
+    os-tmpdir "^1.0.0"
 
 osenv@^0.1.4:
   version "0.1.5"
@@ -17608,6 +17820,7 @@ p-locate@^3.0.0:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 p-locate@^4.1.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/p-locate/-/p-locate-4.1.0.tgz#a3428bb7088b3a60292f66919278b7c297ad4f07"
@@ -17641,6 +17854,8 @@ p-map@^1.1.1:
 >>>>>>> fb02b58... rebuilt lock
 =======
 =======
+=======
+>>>>>>> 0d8a655... Update yarn lock
 p-locate@^4.1.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/p-locate/-/p-locate-4.1.0.tgz#a3428bb7088b3a60292f66919278b7c297ad4f07"
@@ -17659,8 +17874,11 @@ p-map@^3.0.0:
   integrity sha512-d3qXVTF/s+W+CdJ5A29wywV2n8CQQYahlgz2bFiA+4eVNJbHJodPZ+/gXwPGh0bOqA+j8S+6+ckmvLGPk1QpxQ==
   dependencies:
     aggregate-error "^3.0.0"
+<<<<<<< HEAD
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
 
 p-reduce@^1.0.0:
   version "1.0.0"
@@ -19205,6 +19423,7 @@ pseudomap@^1.0.2:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 psl@^1.1.28:
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/psl/-/psl-1.8.0.tgz#9326f8bcfb013adcc005fdff056acce020e51c24"
@@ -19227,12 +19446,17 @@ psl@^1.1.24, psl@^1.1.28:
 >>>>>>> d03d649... updated deps & updated tests
 =======
 =======
+=======
+>>>>>>> 0d8a655... Update yarn lock
 psl@^1.1.28:
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/psl/-/psl-1.8.0.tgz#9326f8bcfb013adcc005fdff056acce020e51c24"
   integrity sha512-RIdOzyoavK+hA18OGGWDqUTsCLhtA7IcZ/6NCs4fFJaHBDab+pDDmDIByWFRQJq2Cd7r1OoQxBGKOaztq+hjIQ==
+<<<<<<< HEAD
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
 
 public-encrypt@^4.0.0:
   version "4.0.3"
@@ -19368,10 +19592,14 @@ raf@^3.4.1:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0d8a655... Update yarn lock
 ramda@0.26.1:
   version "0.26.1"
   resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.26.1.tgz#8d41351eb8111c55353617fc3bbffad8e4d35d06"
   integrity sha512-hLWjpy7EnsDBb0p+Z3B7rPi3GDeRG5ZtiI33kJhTt+ORCd38AbAIjB/9zRIUoeTbE/AVX5ZkU7m6bznsvrf8eQ==
+<<<<<<< HEAD
 =======
 railroad-diagrams@^1.0.0:
   version "1.0.0"
@@ -19397,6 +19625,8 @@ ramda@0.26.1:
   integrity sha512-hLWjpy7EnsDBb0p+Z3B7rPi3GDeRG5ZtiI33kJhTt+ORCd38AbAIjB/9zRIUoeTbE/AVX5ZkU7m6bznsvrf8eQ==
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
 
 ramda@^0.21.0:
   version "0.21.0"
@@ -19479,7 +19709,11 @@ rc@^1.2.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
+<<<<<<< HEAD
 react-addons-create-fragment@^15.5.3:
+=======
+react-addons-create-fragment@^15.6.2:
+>>>>>>> 0d8a655... Update yarn lock
   version "15.6.2"
   resolved "https://registry.yarnpkg.com/react-addons-create-fragment/-/react-addons-create-fragment-15.6.2.tgz#a394de7c2c7becd6b5475ba1b97ac472ce7c74f8"
   integrity sha1-o5TefCx77Na1R1uhuXrEcs58dPg=
@@ -20884,6 +21118,7 @@ repeat-string@^1.6.1:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 <<<<<<< Updated upstream
@@ -20909,6 +21144,8 @@ replace-ext@1.0.0:
 =======
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
 request-progress@3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/request-progress/-/request-progress-3.0.0.tgz#4ca754081c7fec63f505e4faa825aa06cd669dbe"
@@ -20933,6 +21170,7 @@ request-promise-native@^1.0.5, request-promise-native@^1.0.8:
     tough-cookie "^2.3.3"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< Updated upstream
 request@2.88.0, request@^2.87.0, request@^2.88.0:
@@ -20941,14 +21179,19 @@ request@2.88.0, request@^2.87.0, request@^2.88.0:
   integrity sha512-NAqBSrijGLZdM0WZNsInLJpkJokL72XYjUpnB0iwsRgxh7dB6COrHnTBNwN0E+lHDAJzu7kLAkDeY08z2/A0hg==
 =======
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
 request@^2.87.0, request@^2.88.0:
   version "2.88.2"
   resolved "https://registry.yarnpkg.com/request/-/request-2.88.2.tgz#d73c918731cb5a87da047e207234146f664d12b3"
   integrity sha512-MsvtOrfG9ZcrOwAW+Qi+F6HbD0CWXEh9ou77uOb7FM2WPhwT7smM833PzanhJLsgXjN89Ir6V2PczXNnMpwKhw==
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
   dependencies:
     aws-sign2 "~0.7.0"
     aws4 "^1.8.0"
@@ -20958,6 +21201,7 @@ request@^2.87.0, request@^2.88.0:
     forever-agent "~0.6.1"
     form-data "~2.3.2"
 <<<<<<< HEAD
+<<<<<<< HEAD
     har-validator "~5.1.3"
 =======
 <<<<<<< Updated upstream
@@ -20966,6 +21210,9 @@ request@^2.87.0, request@^2.88.0:
     har-validator "~5.1.3"
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+    har-validator "~5.1.3"
+>>>>>>> 0d8a655... Update yarn lock
     http-signature "~1.2.0"
     is-typedarray "~1.0.0"
     isstream "~0.1.2"
@@ -20976,6 +21223,7 @@ request@^2.87.0, request@^2.88.0:
     qs "~6.5.2"
     safe-buffer "^5.1.2"
 <<<<<<< HEAD
+<<<<<<< HEAD
     tough-cookie "~2.5.0"
 =======
 <<<<<<< Updated upstream
@@ -20984,6 +21232,9 @@ request@^2.87.0, request@^2.88.0:
     tough-cookie "~2.5.0"
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+    tough-cookie "~2.5.0"
+>>>>>>> 0d8a655... Update yarn lock
     tunnel-agent "^0.6.0"
     uuid "^3.3.2"
 
@@ -21235,10 +21486,14 @@ rimraf@2.6.3, rimraf@^2.2.8, rimraf@^2.5.4, rimraf@^2.6.1, rimraf@^2.6.2, rimraf
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 rimraf@^2.2.8, rimraf@^2.5.4, rimraf@^2.6.1, rimraf@^2.6.3, rimraf@^2.7.1:
 =======
 rimraf@^2.2.8, rimraf@^2.5.4, rimraf@^2.6.1, rimraf@^2.6.3:
 >>>>>>> fb02b58... rebuilt lock
+=======
+rimraf@^2.2.8, rimraf@^2.5.4, rimraf@^2.6.1, rimraf@^2.6.3, rimraf@^2.7.1:
+>>>>>>> 0d8a655... Update yarn lock
   version "2.7.1"
   resolved "https://registry.yarnpkg.com/rimraf/-/rimraf-2.7.1.tgz#35797f13a7fdadc566142c29d4f07ccad483e3ec"
   integrity sha512-uWjbaKIK3T1OSVptzX7Nl6PvQ3qAGtKEtVRjRuazjfL3Bx5eI409VZSqgND+4UNnmzLVdPj9FqFJNPqBZFve4w==
@@ -21290,6 +21545,7 @@ run-queue@^1.0.0, run-queue@^1.0.3:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 rxjs@^6.3.3, rxjs@^6.4.0, rxjs@^6.5.3, rxjs@^6.5.4, rxjs@^6.5.5:
   version "6.5.5"
   resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-6.5.5.tgz#c5c884e3094c8cfee31bf27eb87e54ccfc87f9ec"
@@ -21325,12 +21581,17 @@ rxjs@^6.5.3:
 >>>>>>> 0699d23... sync (#3)
 =======
 =======
+=======
+>>>>>>> 0d8a655... Update yarn lock
 rxjs@^6.3.3, rxjs@^6.4.0, rxjs@^6.5.3, rxjs@^6.5.4, rxjs@^6.5.5:
   version "6.5.5"
   resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-6.5.5.tgz#c5c884e3094c8cfee31bf27eb87e54ccfc87f9ec"
   integrity sha512-WfQI+1gohdf0Dai/Bbmk5L5ItH5tYqm3ki2c5GdWhKjalzjg93N3avFjVStyZZz+A2Em+ZxKH5bNghw9UeylGQ==
+<<<<<<< HEAD
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+>>>>>>> 0d8a655... Update yarn lock
   dependencies:
     tslib "^1.9.0"
 
@@ -22654,6 +22915,14 @@ strip-json-comments@~2.0.1:
   integrity sha1-PFMZQukIwml8DsNEhYwobHygpgo=
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+strip-json-comments@~2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-2.0.1.tgz#3c531942e908c2697c0ec344858c286c7ca0a60a"
+  integrity sha1-PFMZQukIwml8DsNEhYwobHygpgo=
+
+>>>>>>> 0d8a655... Update yarn lock
 style-loader@0.23.1:
 =======
 style-loader@1.0.0:
@@ -22691,12 +22960,16 @@ stylehacks@^4.0.0:
     postcss-selector-parser "^3.0.0"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0d8a655... Update yarn lock
 supports-color@7.1.0, supports-color@^7.0.0, supports-color@^7.1.0:
   version "7.1.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-7.1.0.tgz#68e32591df73e25ad1c4b49108a2ec507962bfd1"
   integrity sha512-oRSIpR8pxT1Wr2FquTNnGet79b3BWljqOuoW/h4oBhxJ/HUbX5nX6JSruTkvXDCFMwDPvsaTTbvMLKZWSy0R5g==
   dependencies:
     has-flag "^4.0.0"
+<<<<<<< HEAD
 =======
 <<<<<<< Updated upstream
 stylis-rule-sheet@^0.0.10:
@@ -22726,6 +22999,9 @@ supports-color@7.1.0, supports-color@^7.0.0, supports-color@^7.1.0:
 
 <<<<<<< HEAD
 =======
+=======
+
+>>>>>>> 0d8a655... Update yarn lock
 supports-color@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-2.0.0.tgz#535d045ce6b6363fa40117084629995e9df324c7"
@@ -22797,6 +23073,7 @@ svgo@^1.0.0, svgo@^1.1.1, svgo@^1.2.2:
     util.promisify "~1.0.0"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 symbol-observable@^1.1.0, symbol-observable@^1.2.0:
 =======
 <<<<<<< Updated upstream
@@ -22810,6 +23087,9 @@ symbol-observable@^1.0.4, symbol-observable@^1.2.0:
 symbol-observable@^1.1.0, symbol-observable@^1.2.0:
 >>>>>>> Stashed changes
 >>>>>>> 7956726... Update cypres
+=======
+symbol-observable@^1.1.0, symbol-observable@^1.2.0:
+>>>>>>> 0d8a655... Update yarn lock
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/symbol-observable/-/symbol-observable-1.2.0.tgz#c22688aed4eab3cdc2dfeacbb561660560a00804"
 
@@ -22844,10 +23124,14 @@ tapable@^1.0.0, tapable@^1.1.3:
   integrity sha512-4WK/bYZmj8xLr+HUCODHGF1ZFzsYffasLUgEiMBY4fgtltdO6B4WJtlSbPaDTLpYTcGVwM2qLnFTICEcNxs3kA==
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0d8a655... Update yarn lock
 tar@^4.4.2:
   version "4.4.13"
   resolved "https://registry.yarnpkg.com/tar/-/tar-4.4.13.tgz#43b364bc52888d555298637b10d60790254ab525"
   integrity sha512-w2VwSrBoHa5BsSyH+KxEqeQBAllHhccyMFVHtGtdMpF4W7IRWfZjFiQceJPChOeTsSDVUpER2T8FA93pr0L+QA==
+<<<<<<< HEAD
 =======
 tapable@^1.1.3:
 =======
@@ -22872,10 +23156,13 @@ tar@^4:
   resolved "https://registry.yarnpkg.com/tar/-/tar-4.4.8.tgz#b19eec3fde2a96e64666df9fdb40c5ca1bc3747d"
   integrity sha512-LzHF64s5chPQQS0IYBn9IN5h3i98c12bo4NCO7e0sGM2llXQ3p2FGC5sdENN4cTW48O915Sh+x+EXx7XW96xYQ==
 >>>>>>> 0699d23... sync (#3)
+=======
+>>>>>>> 0d8a655... Update yarn lock
   dependencies:
     chownr "^1.1.1"
     fs-minipass "^1.2.5"
     minipass "^2.8.6"
+<<<<<<< HEAD
 =======
   version "4.4.10"
   resolved "https://registry.yarnpkg.com/tar/-/tar-4.4.10.tgz#946b2810b9a5e0b26140cf78bea6b0b0d689eba1"
@@ -22902,6 +23189,13 @@ tar@^4:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+    minizlib "^1.2.1"
+    mkdirp "^0.5.0"
+    safe-buffer "^5.1.2"
+    yallist "^3.0.3"
+
+>>>>>>> 0d8a655... Update yarn lock
 telejson@^3.2.0:
   version "3.3.0"
   resolved "https://registry.yarnpkg.com/telejson/-/telejson-3.3.0.tgz#6d814f3c0d254d5c4770085aad063e266b56ad03"
@@ -23620,6 +23914,7 @@ unset-value@^1.0.0:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 untildify@4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/untildify/-/untildify-4.0.0.tgz#2bc947b953652487e4600949fb091e3ae8cd919b"
@@ -23642,6 +23937,8 @@ upath@^1.1.0:
 >>>>>>> d03d649... updated deps & updated tests
 =======
 =======
+=======
+>>>>>>> 0d8a655... Update yarn lock
 untildify@4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/untildify/-/untildify-4.0.0.tgz#2bc947b953652487e4600949fb091e3ae8cd919b"
@@ -24668,8 +24965,12 @@ yallist@^2.1.2:
   resolved "https://registry.yarnpkg.com/yallist/-/yallist-2.1.2.tgz#1c11f9218f076089a47dd512f93c6699a6a81d52"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 yallist@^3.0.0, yallist@^3.0.2, yallist@^3.0.3:
 <<<<<<< HEAD
+=======
+yallist@^3.0.0, yallist@^3.0.2, yallist@^3.0.3:
+>>>>>>> 0d8a655... Update yarn lock
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/yallist/-/yallist-3.1.1.tgz#dbb7daf9bfd8bac9ab45ebf602b8cbad0d5d08fd"
   integrity sha512-a4UGQaWPH59mOXUYnAG2ewncQS4i4F43Tv3JoAM+s2VDAmS9NsK8GpDMLrCHPksFT7h3K6TOoUNn2pb7RoXx4g==
@@ -24853,3 +25154,4 @@ yauzl@2.4.1:
 >>>>>>> 0699d23... sync (#3)
 =======
 >>>>>>> 7956726... Update cypres
+w
